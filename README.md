@@ -21,8 +21,7 @@
   </Main>
   <footer>
     Linked In: https://www.linkedin.com/in/keven-olvera-contreraz-149962184/
+    <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevenOlvera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
   </footer>
 </Body>
 </HTML>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevenOlvera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
