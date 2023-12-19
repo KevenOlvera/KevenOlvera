@@ -1,16 +1,25 @@
-### Hi there 👋
+<HTML lang="en">
+<Body>
+  <Main>
+    
+  <Head>Keven Olvera Contreraz</Head>
+  
+  <p>
+  Hi there 👋 My name is Keven Olvera Contreraz.
+  </p>
 
-<!--
-**KevenOlvera/KevenOlvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <section>
+<ul>
+  <li>🙌I’m currently working on a certificate for cybersecurity on Coursera while getting my Bachelor in Software Engineering at UTA!</li>
+  <li>👨‍💻I’m currently learning C# and HTML.</li>
+  <li>👨‍🔧I’m looking to collaborate on projects to gain more experience and to learn.</li>
+  <li>💬 Ask me about C language basics!</li>
+  <li>📫 How to reach me: Kevolveraaa101@gmail.com</li>
+  <li>😄 Pronouns: He/Him</li>
+  <li>🐕Fun fact: I have a dog and his name is Max
+</ul>
+  </section>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </Main>
+</Body>
+</HTML>
