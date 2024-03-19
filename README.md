@@ -9,7 +9,7 @@
   <section>
 <ul>
   <li>🙌I’m currently working on a certificate for cybersecurity on Coursera while getting my Bachelor in Software Engineering at UTA!</li>
-  <li>👨‍💻I’m currently learning C# and HTML.</li>
+  <li>👨‍💻I’m currently learning Java, HTML and CSS</li>
   <li>👨‍🔧I’m looking to collaborate on projects to gain more team experience and to learn.</li>
   <li>💬 Ask me about C language basics!</li>
   <li>📫 How to reach me: Kevolveraaa101@gmail.com</li>
