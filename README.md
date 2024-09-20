@@ -14,8 +14,9 @@
   <li>💬 Ask me about C language basics!</li>
   <li>📫 How to reach me: Kevolveraaa101@gmail.com</li>
   <li>😄 Pronouns: He/Him</li>
-  <li>🗣️I speak Spanish, English, and I have a 312-day streak on Duolingo for Arabic!</li>
+  <li>🗣️I speak Spanish, English, and I have a 312-day streak on Duolingo for Arabic! [09/20/2024]</li>
   <li>🐕Fun fact: I have a dog and his name is Max
+  <li>🐈Fun Fact: I have a cat and his/her name is Bella (didn't know he was a boy until after he was a kitten)</li>
 </ul>
   </section>
 
