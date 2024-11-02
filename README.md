@@ -8,7 +8,7 @@
 
   <section>
 <ul>
-  <li>🙌I’m currently working on a certificate for cybersecurity on Coursera while getting my Bachelor in Software Engineering at UTA!</li>
+  <li>🙌I’m currently working on getting my Bachelor in Software Engineering at UTA!</li>
   <li>👨‍🔧I’m looking to collaborate on projects to gain more team experience and to learn.</li>
   <li>👨‍💻I’m currently learning C#, HTML and CSS</li>
   <li>💬 Ask me about C, Java, or ARMv7 assembly, language basics!</li>
